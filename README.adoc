@@ -50,3 +50,4 @@ você deverá renomear as pastas para algo como (preferencialmente evitando acen
 ====
 
 ![Relatório de Cobertura](relatorio.png)
+.
