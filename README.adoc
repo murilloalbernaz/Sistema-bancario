@@ -49,4 +49,4 @@ você deverá renomear as pastas para algo como (preferencialmente evitando acen
 `/home/usuario/meus-projetos/projeto-incrivel`.
 ====
 
-![Relatório de Cobertura](relatorio.png)
+![Relatório de Cobertura](relatorio.PNG)
